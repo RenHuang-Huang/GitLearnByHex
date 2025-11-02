@@ -1,4 +1,6 @@
 # GitLearnByHex
+
 ## 團隊成員
-1. Michael
-2. Ren
+
+1. Ren
+2. Michael
